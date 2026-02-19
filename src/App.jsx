@@ -107,6 +107,12 @@ export default function Portfolio() {
             stack="HTML, CSS, JavaScript"
             link="https://github.com/LeKimah/calculator-project"
           />
+          <Project
+            title="Weather App"
+            description="Aplicación que consume una API externa para mostrar información climática en tiempo real según la ciudad ingresada."
+            stack="JavaScript, API REST, HTML, CSS"
+            link="https://github.com/LeKimah"
+          />
         </div>
       </section>
 
