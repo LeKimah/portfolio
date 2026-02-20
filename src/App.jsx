@@ -5,9 +5,7 @@ export default function Portfolio() {
     <main className="min-h-screen bg-gray-950 text-gray-100 font-sans">
       {/* HERO */}
       <section className="flex flex-col items-center justify-center text-center px-6 py-24">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">
-          Franco Lanaro
-        </h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">Franco Lanaro</h1>
         <h2 className="text-xl md:text-2xl text-gray-400 mb-6">
           Full-Stack Developer (MERN)
         </h2>
@@ -29,6 +27,14 @@ export default function Portfolio() {
             className="px-6 py-3 rounded-xl border border-gray-700 hover:bg-gray-800"
           >
             GitHub
+          </a>
+          <a
+            href="/cv/Franco_Lanaro_CV.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 rounded-xl border border-gray-700 hover:bg-gray-800"
+          >
+            Descargar CV
           </a>
         </div>
       </section>
