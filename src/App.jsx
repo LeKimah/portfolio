@@ -29,7 +29,7 @@ export default function Portfolio() {
             GitHub
           </a>
           <a
-            href="/cv/Franco_Lanaro_CV.pdf"
+            href="/cv/Curriculum Vitae 2026.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl border border-gray-700 hover:bg-gray-800"
